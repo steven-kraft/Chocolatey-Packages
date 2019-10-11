@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
+    <id>Nestopia</id>
+    <title>Nestopia</title>
+    <version>1.40.20191010</version>
+    <authors>Martin Freij</authors>
+    <owners>kraftydinosaur</owners>
+    <summary>A portable and cycle-accurate NES/Famicom emulator written in C++</summary>
+    <description>A portable and cycle-accurate NES/Famicom emulator written in C++</description>
+    <projectUrl>http://sourceforge.net/projects/nestopia/</projectUrl>
+    <tags>emulator nes gaming</tags>
+    <licenseUrl>https://www.gnu.org/licenses/gpl-2.0.html</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://cdn.rawgit.com/kraftydinosaur/Chocolatey-Packages/master/Nestopia/icon.png</iconUrl>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
