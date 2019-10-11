@@ -6,6 +6,9 @@
     <title>Nestopia</title>
     <version>1.40.20191010</version>
     <packageSourceUrl>https://github.com/steven-kraft/chocolatey-packages</packageSourceUrl>
+    <bugTrackerUrl>https://sourceforge.net/p/nestopia/bugs/</bugTrackerUrl>
+    <projectSourceUrl>https://sourceforge.net/projects/nestopia/files/Nestopia/v1.40/Nestopia140src.zip/download</projectSourceUrl>
+    <releaseNotes>http://nestopia.sourceforge.net/</releaseNotes>
     <authors>Martin Freij</authors>
     <owners>kraftydinosaur</owners>
     <summary>A portable and cycle-accurate NES/Famicom emulator written in C++</summary>
@@ -14,7 +17,7 @@
     <tags>emulator nes gaming</tags>
     <licenseUrl>https://www.gnu.org/licenses/gpl-2.0.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://cdn.rawgit.com/kraftydinosaur/Chocolatey-Packages/master/Nestopia/icon.png</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/steven-kraft/chocolatey-packages/master/icons/nestopia.png</iconUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
