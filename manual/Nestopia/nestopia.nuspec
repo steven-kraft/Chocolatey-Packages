@@ -5,6 +5,7 @@
     <id>Nestopia</id>
     <title>Nestopia</title>
     <version>1.40.20191010</version>
+    <packageSourceUrl>https://github.com/steven-kraft/chocolatey-packages</packageSourceUrl>
     <authors>Martin Freij</authors>
     <owners>kraftydinosaur</owners>
     <summary>A portable and cycle-accurate NES/Famicom emulator written in C++</summary>
