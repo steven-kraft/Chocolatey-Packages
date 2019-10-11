@@ -9,6 +9,7 @@
     <docsUrl>https://www.tagaini.net/manual/</docsUrl>
     <bugTrackerUrl>https://github.com/Gnurou/tagainijisho/issues</bugTrackerUrl>
     <projectSourceUrl>https://github.com/Gnurou/tagainijisho/</projectSourceUrl>
+    <mailingListUrl>https://feeds.feedburner.com/TagainiJisho</mailingListUrl>
     <authors>Gnurou</authors>
     <owners>kraftydinosaur</owners>
     <summary>A free Japanese dictionary and study assistant</summary>
