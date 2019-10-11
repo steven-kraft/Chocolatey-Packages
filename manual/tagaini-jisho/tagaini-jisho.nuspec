@@ -5,6 +5,10 @@
     <title>Tagaini Jisho</title>
     <version>1.0.3</version>
     <packageSourceUrl>https://github.com/steven-kraft/chocolatey-packages</packageSourceUrl>
+    <releaseNotes>https://github.com/Gnurou/tagainijisho/releases/</releaseNotes>
+    <docsUrl>https://www.tagaini.net/manual/</docsUrl>
+    <bugTrackerUrl>https://github.com/Gnurou/tagainijisho/issues</bugTrackerUrl>
+    <projectSourceUrl>https://github.com/Gnurou/tagainijisho/</projectSourceUrl>
     <authors>Gnurou</authors>
     <owners>kraftydinosaur</owners>
     <summary>A free Japanese dictionary and study assistant</summary>
