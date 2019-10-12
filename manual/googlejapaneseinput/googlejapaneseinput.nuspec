@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>GoogleJapaneseInput</id>
+    <title>Google Japanese Input</title>
+    <version>1.3.35</version>
+    <authors>Google</authors>
+    <owners>kraftydinosaur</owners>
+    <summary>An input method published by Google for the entry of Japanese text on a computer. Since its dictionaries are generated automatically from the Internet, it is much easier to type personal names, Internet slang, neologisms and related terms.</summary>
+    <description>Google Japanese Input is an input method published by Google for the entry of Japanese text on a computer. Since its dictionaries are generated automatically from the Internet, it is much easier to type personal names, Internet slang, neologisms and related terms.</description>
+    <projectUrl>https://www.google.co.jp/intl/ja/ime/</projectUrl>
+    <tags>Japanese Input Google IME</tags>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://raw.githubusercontent.com/steven-kraft/chocolatey-packages/master/icons/googlejapaneseinput.png</iconUrl>
+	<copyright>2019 Google Inc.</copyright>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
