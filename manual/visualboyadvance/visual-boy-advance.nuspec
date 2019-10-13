@@ -6,6 +6,8 @@
     <title>Visual Boy Advance</title>
     <version>1.7.2</version>
     <packageSourceUrl>https://github.com/steven-kraft/chocolatey-packages</packageSourceUrl>
+    <bugTrackerUrl>https://sourceforge.net/p/vba/bugs/</bugTrackerUrl>
+    <mailingListUrl>https://sourceforge.net/p/vba/mailman/</mailingListUrl>
     <authors>VBA Team</authors>
     <owners>kraftydinosaur</owners>
     <summary>Game Boy, Game Boy Color, and Game Boy Advance emulator</summary>
