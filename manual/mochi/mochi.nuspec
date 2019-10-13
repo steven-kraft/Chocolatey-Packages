@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>mochi</id>
+    <title>Mochi</title>
+    <version>1.3.10</version>
+    <packageSourceUrl>https://github.com/steven-kraft/chocolatey-packages</packageSourceUrl>
+    <releaseNotes>https://mochi.cards/changelog.html</releaseNotes>
+    <authors>Matt Steedman</authors>
+    <owners>kraftydinosaur</owners>
+    <summary>Take notes and make flashcards using markdown, then study them using spaced repetition.</summary>
+    <description>Spaced repetition is a powerful way to remember just about anything. With Mochi, you can seamlessly turn your notes into flash cards and study them at optimal intervals with Mochi's simple spaced repetition algorithm.</description>
+    <projectUrl>https://mochi.cards/</projectUrl>
+    <tags>SRS spaced repitition markdown flashcards memorization</tags>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://raw.githubusercontent.com/steven-kraft/chocolatey-packages/master/icons/mochi.png</iconUrl>
+	<copyright>2019 Matthew Steedman</copyright>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
