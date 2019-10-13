@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
+    <id>VisualBoyAdvance</id>
+    <title>Visual Boy Advance</title>
+    <version>1.7.2</version>
+    <packageSourceUrl>https://github.com/steven-kraft/chocolatey-packages</packageSourceUrl>
+    <authors>VBA Team</authors>
+    <owners>kraftydinosaur</owners>
+    <summary>Game Boy, Game Boy Color, and Game Boy Advance emulator</summary>
+    <description>VisualBoyAdvance is a free emulator of the Game Boy, Game Boy Color, and Game Boy Advance handheld game consoles as well as of Super Game Boy and Super Game Boy 2.</description>
+    <projectUrl>http://sourceforge.net/projects/vba/</projectUrl>
+    <tags>emulator gba gbc gb gaming</tags>
+    <copyright></copyright>
+    <licenseUrl>https://www.gnu.org/licenses/gpl-2.0.html</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://raw.githubusercontent.com/steven-kraft/chocolatey-packages/master/icons/visualboyadvance.png</iconUrl>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
