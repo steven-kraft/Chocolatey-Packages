@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>multrin</id>
+    <title>Multrin</title>
+    <version>1.0.0</version>
+    <packageSourceUrl>https://github.com/steven-kraft/chocolatey-packages</packageSourceUrl>
+    <releaseNotes>https://github.com/sentialx/multrin/releases/tag/v1.0.0</releaseNotes>
+    <authors>Eryk Rakowski</authors>
+    <owners>kraftydinosaur</owners>
+    <summary>Organize multiple apps in tabs.</summary>
+    <description>Multrin is a cross-platform app built on top of Electron, that lets you to organize apps in tabs, by just dropping them onto Multrin. It aims to greatly improve your productivity and organization.</description>
+    <projectUrl>https://github.com/sentialx/multrin</projectUrl>
+    <bugTrackerUrl>https://github.com/sentialx/multrin/issues</bugTrackerUrl>
+    <projectSourceUrl>https://github.com/sentialx/multrin</projectSourceUrl>
+    <tags>electron organizer tabs</tags>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://raw.githubusercontent.com/steven-kraft/chocolatey-packages/master/icons/multrin.png</iconUrl>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
