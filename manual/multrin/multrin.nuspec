@@ -3,9 +3,9 @@
   <metadata>
     <id>multrin</id>
     <title>Multrin</title>
-    <version>1.0.0</version>
+    <version>1.2.2</version>
     <packageSourceUrl>https://github.com/steven-kraft/chocolatey-packages</packageSourceUrl>
-    <releaseNotes>https://github.com/sentialx/multrin/releases/tag/v1.0.0</releaseNotes>
+    <releaseNotes>https://github.com/sentialx/multrin/releases/tag/v1.2.2</releaseNotes>
     <authors>Eryk Rakowski</authors>
     <owners>kraftydinosaur</owners>
     <summary>Organize multiple apps in tabs.</summary>
